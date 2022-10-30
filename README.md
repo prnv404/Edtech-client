@@ -1,3 +1,3 @@
 # Edtech-client
 
-deployed in vercel  <link src"https://edtech-client.vercel.app/"> https://edtech-client.vercel.app/</link>
+deployed in vercel https://edtech-client.vercel.app/
