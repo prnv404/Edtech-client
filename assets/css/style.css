@@ -429,7 +429,7 @@ h6 {
 
 #hero:before {
   content: "";
-  background: rgba(2, 5, 161, 0.91);
+  background: rgba(58, 33, 170, 0.91);
   position: absolute;
   bottom: 0;
   top: 0;
@@ -806,7 +806,7 @@ section {
 }
 
 .about .video-box {
-  background: url("../img/about.png") center center no-repeat;
+  background: url("../img/images-modified.png") center center no-repeat;
   background-size: contain;
   min-height: 300px;
 }
@@ -814,7 +814,7 @@ section {
 .about .play-btn {
   width: 94px;
   height: 94px;
-  background: radial-gradient(#3f43fd 50%, rgba(63, 67, 253, 0.4) 52%);
+  background: radial-gradient(#5a5a5c 50%, rgba(92, 92, 100, 0.4) 52%);
   border-radius: 50%;
   display: block;
   position: absolute;
@@ -833,7 +833,7 @@ section {
   height: 0;
   border-top: 10px solid transparent;
   border-bottom: 10px solid transparent;
-  border-left: 15px solid #fff;
+  border-left: 15px solid rgb(255, 253, 253);
   z-index: 100;
   transition: all 400ms cubic-bezier(0.55, 0.055, 0.675, 0.19);
 }
@@ -855,14 +855,14 @@ section {
   animation-timing-function: steps;
   opacity: 1;
   border-radius: 50%;
-  border: 5px solid rgba(63, 67, 253, 0.7);
+  border: 5px solid rgba(65, 65, 70, 0.7);
   top: -15%;
   left: -15%;
-  background: rgba(198, 16, 0, 0);
+  background: rgba(245, 242, 242, 0);
 }
 
 .about .play-btn:hover::after {
-  border-left: 15px solid #3f43fd;
+  border-left: 15px solid #5a5a5c;
   transform: scale(20);
 }
 
