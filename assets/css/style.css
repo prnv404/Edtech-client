@@ -138,7 +138,7 @@ h6 {
 }
 
 #header.header-scrolled {
-  background: rgba(1, 4, 136, 0.9);
+  background: #017d96;
   height: 60px;
 }
 
@@ -422,14 +422,16 @@ h6 {
 --------------------------------------------------------------*/
 #hero {
   width: 100%;
-  background: url("../img/hero-bg.jpg");
+  background: url("../img/Texture/abstract_geometric_banner_design_2507.jpg");
+
   position: relative;
   padding: 120px 0 0 0;
 }
 
 #hero:before {
   content: "";
-  background: rgba(58, 33, 170, 0.91);
+  background: #008ba7ed;
+  opacity: 0.7;
   position: absolute;
   bottom: 0;
   top: 0;
@@ -460,6 +462,7 @@ h6 {
   font-family: "Montserrat", sans-serif;
   font-weight: 500;
   font-size: 16px;
+  font-weight: bold;
   letter-spacing: 1px;
   display: inline-block;
   padding: 10px 30px;
@@ -1727,4 +1730,8 @@ section {
   #footer .footer-top .footer-info {
     margin: -20px 0 30px 0;
   }
+}
+
+.p-5 {
+  padding-top: 11.5rem !important;
 }
