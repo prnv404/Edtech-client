@@ -677,7 +677,7 @@ section {
   font-weight: 700;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #010483;
+  color: rgb(0 104 139);
 }
 
 /*--------------------------------------------------------------
@@ -752,7 +752,7 @@ section {
 .about .icon-boxes h3 {
   font-size: 28px;
   font-weight: 700;
-  color: #010483;
+  color: rgb(0 104 139);
   margin-bottom: 15px;
 }
 
@@ -987,7 +987,7 @@ section {
   font-size: 36px;
   display: block;
   font-weight: 600;
-  color: #010483;
+  color: rgb(0 104 139);
 }
 
 .counts .count-box p {
@@ -1007,7 +1007,7 @@ section {
 .details .content h3 {
   font-weight: 600;
   font-size: 26px;
-  color: #010483;
+  color: rgb(0 104 139);
 }
 
 .details .content ul {
@@ -1195,7 +1195,7 @@ section {
   font-weight: 700;
   margin-bottom: 10px;
   font-size: 16px;
-  color: #01036f;
+  color: rgb(0 104 139);
   position: relative;
   padding-bottom: 10px;
 }
@@ -1206,7 +1206,7 @@ section {
   display: block;
   width: 50px;
   height: 1px;
-  background: #0d12fc;
+  background: #1acc8d;
   bottom: 0;
   left: calc(50% - 25px);
 }
@@ -1215,7 +1215,7 @@ section {
   font-style: italic;
   display: block;
   font-size: 13px;
-  color: #01036f;
+  color: rgb(0 104 139);
 }
 
 .team .member .social {
@@ -1224,7 +1224,7 @@ section {
 
 .team .member .social a {
   transition: color 0.3s;
-  color: #01036f;
+  color: rgb(0 104 139);
 }
 
 .team .member .social a:hover {
@@ -1438,7 +1438,7 @@ section {
 
 .contact .info i {
   font-size: 20px;
-  color: #3f43fd;
+  color: rgb(0 104 139);
   float: left;
   width: 44px;
   height: 44px;
@@ -1455,14 +1455,14 @@ section {
   font-size: 22px;
   font-weight: 600;
   margin-bottom: 5px;
-  color: #010483;
+  color: rgb(0 104 139);
 }
 
 .contact .info p {
   padding: 0 0 0 60px;
   margin-bottom: 0;
   font-size: 14px;
-  color: #0205a1;
+  color: rgb(0 104 139)a1;
 }
 
 .contact .info .email,
@@ -1580,7 +1580,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #010351;
+  background: #256D85;
   padding: 0 0 30px 0;
   color: #fff;
   font-size: 14px;
@@ -1592,7 +1592,7 @@ section {
 
 #footer .footer-top .footer-info {
   margin-bottom: 15px;
-  background: #010246;
+  background: #256D85;
   color: #fff;
   border-top: 4px solid #1acc8d;
   text-align: center;
@@ -1710,7 +1710,7 @@ section {
 }
 
 #footer .copyright {
-  border-top: 1px solid #010479;
+  border-top: 1px solid #1acc8d;
   text-align: center;
   padding-top: 30px;
 }
